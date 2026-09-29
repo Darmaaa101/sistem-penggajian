@@ -4,9 +4,9 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use App\Models\pegawai;
+use App\Models\Pegawai;
 
-class jabatan extends Model
+class Jabatan extends Model
 {
     use HasFactory;
 

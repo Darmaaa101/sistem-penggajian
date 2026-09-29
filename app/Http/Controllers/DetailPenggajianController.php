@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\detail_penggajian;
+use App\Models\DetailPenggajian;
 use Illuminate\Http\Request;
 
 class DetailPenggajianController extends Controller
