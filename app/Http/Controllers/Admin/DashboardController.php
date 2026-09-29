@@ -3,9 +3,9 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
-use App\Models\penggajian;
-use App\Models\pegawai;
-use App\Models\jabatan;
+use App\Models\Penggajian;
+use App\Models\Pegawai;
+use App\Models\Jabatan;
 use App\Models\User;
 use Illuminate\Http\Request;
 
